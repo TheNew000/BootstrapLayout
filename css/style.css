@@ -1,0 +1,37 @@
+.container{
+    height: 100vh;
+}
+
+.bg-info, #ad{
+    text-align: center;
+    color: black;
+}
+
+.col{
+    border: 10px solid #337AB7;
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.row{
+    margin: 10px;
+    border: 1px solid black;
+}
+
+h4{
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+
+#aF, #aL{
+    height: 80%;
+    padding-bottom: 5px;
+}
+
+#sbFeat{
+    height: 100%;
+}
+
+#footer{
+    margin-top: 30px;
+}
