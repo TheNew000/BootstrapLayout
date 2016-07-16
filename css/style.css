@@ -15,7 +15,6 @@
 
 .row{
     margin: 10px;
-    border: 1px solid black;
 }
 
 h4{
@@ -35,3 +34,40 @@ h4{
 #footer{
     margin-top: 30px;
 }
+
+@media screen and (min-width: 1200px) {
+    #hero{
+        border: none;
+    }
+
+    .hero-left{
+        padding-left: 0px;
+    }
+    
+    #ad {
+        border-left: 19px solid white;
+        padding-top: 37px;
+        padding-bottom: 36px;
+        border-right: 50px solid #F2DEDE;  
+    }
+
+    #ad h4{
+        color: white;
+        padding-left: 29px;
+    }
+    
+    #large-body{
+        border: none;
+    }
+    
+     #body{
+        padding: 0px;
+    }
+
+    #sidebar{
+        border-left: 19px solid white;
+        padding-top: 15px;
+    }
+}
+
+
